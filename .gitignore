@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Local development configuration files
+*.env
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Dependency directories
+lib/
+lib64/
